@@ -9,4 +9,4 @@ if [ -f "/config/kopf_external_settings.json" ]; then
 fi
 
 
-exec run.sh
+exec /run.sh
